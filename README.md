@@ -1,5 +1,4 @@
 # Script.lua
-Ok
 -- [[ SUPREME SCRIPT SEARCHER V70 - DETAILED STATUS & RESTORATION ]]
 local player = game.Players.LocalPlayer
 local httpService = game:GetService("HttpService")
